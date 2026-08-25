@@ -6,6 +6,11 @@ Production ESP32 asset tracker. GPS acquisition, durable on-device buffering, an
 
 ---
 
+<img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/8b477f26-1298-4b47-b8c7-2fbe1814c3d4" />
+
+
+
+---
 ## The design invariant
 
 > **Connectivity is optional. Acquisition and preservation are not.**
