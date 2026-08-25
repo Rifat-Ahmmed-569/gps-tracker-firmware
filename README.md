@@ -44,6 +44,58 @@ Full pinout notes, the ADC source-impedance limitation, and the charge-sense wir
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+## 📌 1. Project Overview
+
+### What does this project do?
+
+BB-TRACKER turns an **ESP32 microcontroller** into a **standalone GPS tracking device**. It:
+
+1. Reads GPS coordinates (latitude, longitude, speed, heading, altitude, satellites) from a GPS module.
+2. Stamps every reading with the current Bangladesh time (UTC+6).
+3. Tries to send that data **live**, in real time, to an MQTT server over the internet (Wi-Fi first, then a 4G SIM as backup).
+4. If there is **no internet connection at all**, it never throws the data away — it safely writes every GPS point to an SD card, and automatically uploads ("syncs") all the saved points the moment the internet comes back, in the exact order they were recorded.
+5. Hosts its **own Wi-Fi hotspot** and a **web dashboard** (a website you open in your phone/laptop browser) so you can configure the device, watch live status, and download logs — even with no internet.
+6. Uses three LEDs to show battery level, GPS quality, and network/transmission status at a glance, without needing a screen.
+
+### Real-world use case
+
+This is designed for **vehicle or asset tracking** in areas with unreliable internet — for example:
+- Tracking a delivery van, rickshaw, or bus across Bangladesh where Wi-Fi/cellular coverage comes and goes.
+- Logging the exact route of a vehicle even through "dead zones," then automatically catching up and sending all the missed points once signal returns.
+- A battery-powered, solar-chargeable tracker that a technician can configure just by connecting to its Wi-Fi hotspot with a phone — no laptop or SIM-card menu needed.
+
+### Expected output / behavior
+
+- Every few seconds (configurable), the device captures a GPS point and either:
+  - **Publishes it live** to an MQTT broker (topic like `tracker/gps/test`), or
+  - **Saves it to the SD card** if there's no connection.
+- A **Serial Monitor** (USB) shows a live table of GPS/battery/network status, plus a text-based command console (type `HELP`).
+- A **web dashboard** at `http://192.168.4.1` (the device's own hotspot) shows live map data, battery %, GPS fix quality, sync status, and lets you change settings (Wi-Fi, MQTT server, GPS interval, etc.).
+- Three onboard LEDs behave like this:
+  | LED | Meaning | Behavior |
+  |---|---|---|
+  | 🔴 Red | Battery level | Brighter = lower battery |
+  | 🟡 Yellow | Network / transmission | Blinking = offline, slow "breathing" glow = uploading a backlog, quick flash = live data just sent |
+  | 🟢 Green | GPS signal quality | Brighter = better GPS fix; blinks if GPS signal is stale/lost |
+
+<img width="1280" height="576" alt="light" src="https://github.com/user-attachments/assets/9bd0980f-58e2-4f0a-850f-e2c72d48c672" />
+
+
+
+
+
+
+---
 ## Build
 
 ### 1. Toolchain
