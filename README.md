@@ -716,6 +716,81 @@ QUEUE          → count returns to zero, in order, with no gaps
 
 ---
 
+## 🚀 Meet the Team
+
+<p align="center">
+  <b>The people behind Bots Bangla</b>
+</p>
+
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+  <img src="YOUR_IMAGE_LINK_HERE" width="180px" style="border-radius:50%;" alt="Ankit Mahmud"/>
+  <br><br>
+  <b>Ankit Mahmud</b>
+  <br>
+  🎨 3D Designer
+  <br>
+  SolidWorks Specialist
+  <br><br>
+  <a href="YOUR_PORTFOLIO_LINK">
+    🌐 Portfolio
+  </a>
+</td>
+
+<td align="center" width="25%">
+  <img src="YOUR_IMAGE_LINK_HERE" width="180px" style="border-radius:50%;" alt="Tahsan Masum Fahim"/>
+  <br><br>
+  <b>Tahsan Masum Fahim</b>
+  <br>
+  🏗️ System Architect
+  <br>
+  Robotics & Automation
+  <br><br>
+  <a href="YOUR_PORTFOLIO_LINK">
+    🌐 Portfolio
+  </a>
+</td>
+
+<td align="center" width="25%">
+  <img src="YOUR_IMAGE_LINK_HERE" width="180px" style="border-radius:50%;" alt="Tanvir Ahmmed"/>
+  <br><br>
+  <b>Tanvir Ahmmed</b>
+  <br>
+  ⚡ Electronics Hardware Developer
+  <br>
+  PCB & Embedded Systems
+  <br><br>
+  <a href="YOUR_PORTFOLIO_LINK">
+    🌐 Portfolio
+  </a>
+</td>
+
+<td align="center" width="25%">
+  <img src="YOUR_IMAGE_LINK_HERE" width="180px" style="border-radius:50%;" alt="Rifat Ahmmed"/>
+  <br><br>
+  <b>Rifat Ahmmed</b>
+  <br>
+  💻 Firmware Developer
+  <br>
+  Robotics & IoT Engineer
+  <br><br>
+  <a href="YOUR_PORTFOLIO_LINK">
+    🌐 Portfolio
+  </a>
+</td>
+
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <i>Building the future through Robotics, IoT, Automation, and Embedded Systems.</i>
+</p>
+
+---
 ## 📄 License & Credits
 
 Firmware and documentation by [**Bots Bangla**](https://botsbangla.vercel.app/).
