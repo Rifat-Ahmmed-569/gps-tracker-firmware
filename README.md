@@ -745,7 +745,8 @@ QUEUE          → count returns to zero, in order, with no gaps
 </td>
 
 <td align="center" width="25%">
- <img width="320" height="320" alt="Black Monochrome Modern Portrait Instagram Profile Picture (1)" src="https://github.com/user-attachments/assets/9f1946cc-e1be-4bba-adc7-94403b4ca6f8" />
+ <img width="320" height="320" alt="Black Monochrome Modern Portrait Instagram Profile Picture (4)" src="https://github.com/user-attachments/assets/173e9f8f-38a8-472a-b0b0-a4c5373ad3d1" />
+
 
 
   <br><br>
@@ -785,7 +786,7 @@ QUEUE          → count returns to zero, in order, with no gaps
   <br>
   Robotics & IoT Engineer
   <br><br>
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="[YOUR_PORTFOLIO_LINK](https://rifatahmmed.vercel.app/)">
     🌐 Portfolio
   </a>
 </td>
