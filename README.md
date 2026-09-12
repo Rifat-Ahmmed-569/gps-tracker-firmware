@@ -1,7 +1,11 @@
+
 # GPS Tracker
 
 **ESP32 GPS tracking device** firmware that reads live GPS location, stores it safely on an SD card, and sends it to the internet over **Wi-Fi** or a **4G/LTE SIM module**, with a built-in **web dashboard**, **serial console**, and **zero-data-loss offline logging**.
 
+---
+<img width="960" height="1280" alt="054b5dde-502c-471a-97fe-07caeb6ed579" src="https://github.com/user-attachments/assets/17184e46-85ea-4f1b-9e21-516016ac4651" />
+---
 **Firmware v6.2**
 
 > Files in this project:
