@@ -1,4 +1,5 @@
 
+
 # GPS Tracker
 
 **ESP32 GPS tracking device** firmware that reads live GPS location, stores it safely on an SD card, and sends it to the internet over **Wi-Fi** or a **4G/LTE SIM module**, with a built-in **web dashboard**, **serial console**, and **zero-data-loss offline logging**.
@@ -730,7 +731,7 @@ QUEUE          → count returns to zero, in order, with no gaps
 <tr>
 
 <td align="center" width="25%">
-  <img src="YOUR_IMAGE_LINK_HERE" width="180px" style="border-radius:50%;" alt="Ankit Mahmud"/>
+  <img width="320" height="320" alt="Black Monochrome Modern Portrait Instagram Profile Picture" src="https://github.com/user-attachments/assets/ec71ab0a-8c0b-49e5-b792-992a44593e6a" />
   <br><br>
   <b>Ankit Mahmud</b>
   <br>
