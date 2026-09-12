@@ -745,7 +745,8 @@ QUEUE          → count returns to zero, in order, with no gaps
 </td>
 
 <td align="center" width="25%">
-  <img width="320" height="320" alt="Black Monochrome Modern Portrait Instagram Profile Picture (1)" src="https://github.com/user-attachments/assets/3db9d242-89bb-4276-b00e-f686ceef68c3" />
+ <img width="320" height="320" alt="Black Monochrome Modern Portrait Instagram Profile Picture (1)" src="https://github.com/user-attachments/assets/9f1946cc-e1be-4bba-adc7-94403b4ca6f8" />
+
 
   <br><br>
   <b>Tahsan Masum Fahim</b>
