@@ -779,16 +779,16 @@ QUEUE          → count returns to zero, in order, with no gaps
 <td align="center" width="25%">
   <img width="320" height="320" alt="Black Monochrome Modern Portrait Instagram Profile Picture (3)" src="https://github.com/user-attachments/assets/c06ceb52-d6d3-4915-9a3c-9091b5a43059" />
 
-  <br><br>
-  <b>Rifat Ahmmed</b>
-  <br>
-  💻 Firmware Developer
-  <br>
-  Robotics & IoT Engineer
-  <br><br>
-  <a href="*=(https://rifatahmmed.vercel.app/)">
-    🌐 Portfolio
-  </a>
+<br><br>
+<b>Rifat Ahmmed</b>
+<br>
+💻 Firmware Developer
+<br>
+Robotics & IoT Engineer
+<br><br>
+<a href="https://rifatahmmed.vercel.app/" target="_blank">
+  🌐 Portfolio
+</a>
 </td>
 
 </tr>
