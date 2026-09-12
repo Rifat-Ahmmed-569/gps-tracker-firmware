@@ -786,7 +786,7 @@ QUEUE          → count returns to zero, in order, with no gaps
   <br>
   Robotics & IoT Engineer
   <br><br>
-  <a href="[https://rifatahmmed.vercel.app/]">
+  <a href="*=(https://rifatahmmed.vercel.app/)">
     🌐 Portfolio
   </a>
 </td>
