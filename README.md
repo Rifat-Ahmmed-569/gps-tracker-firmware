@@ -745,7 +745,8 @@ QUEUE          → count returns to zero, in order, with no gaps
 </td>
 
 <td align="center" width="25%">
-  <img src="YOUR_IMAGE_LINK_HERE" width="180px" style="border-radius:50%;" alt="Tahsan Masum Fahim"/>
+  <img width="320" height="320" alt="Black Monochrome Modern Portrait Instagram Profile Picture (1)" src="https://github.com/user-attachments/assets/3db9d242-89bb-4276-b00e-f686ceef68c3" />
+
   <br><br>
   <b>Tahsan Masum Fahim</b>
   <br>
@@ -759,7 +760,8 @@ QUEUE          → count returns to zero, in order, with no gaps
 </td>
 
 <td align="center" width="25%">
-  <img src="YOUR_IMAGE_LINK_HERE" width="180px" style="border-radius:50%;" alt="Tanvir Ahmmed"/>
+  <img width="320" height="320" alt="Black Monochrome Modern Portrait Instagram Profile Picture (2)" src="https://github.com/user-attachments/assets/e0bca4f2-22f9-456a-90b4-3940e1ac242b" />
+
   <br><br>
   <b>Tanvir Ahmmed</b>
   <br>
@@ -773,7 +775,8 @@ QUEUE          → count returns to zero, in order, with no gaps
 </td>
 
 <td align="center" width="25%">
-  <img src="YOUR_IMAGE_LINK_HERE" width="180px" style="border-radius:50%;" alt="Rifat Ahmmed"/>
+  <img width="320" height="320" alt="Black Monochrome Modern Portrait Instagram Profile Picture (3)" src="https://github.com/user-attachments/assets/c06ceb52-d6d3-4915-9a3c-9091b5a43059" />
+
   <br><br>
   <b>Rifat Ahmmed</b>
   <br>
